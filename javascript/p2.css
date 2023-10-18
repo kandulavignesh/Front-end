@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(253, 252, 252);
+}
+.container{
+    place-items: center;
+    margin: 30px;
+    padding-left: 400px;
+}
+.first,.second,.email,.gender,.per,.qual,.nation,.martial{
+    margin-top: 3px;
+}
+h1{
+    padding-left: 400px;
+    margin-top: 90px;
+    color:red;
+}
+p{
+    padding-left: 350px;
+    font-size: 30px;
+}
+.submit{
+    background-color: green;
+}

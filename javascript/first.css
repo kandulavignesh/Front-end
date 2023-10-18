@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+p{
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    text-decoration-color: aquamarine;
+}
+table{
+    background-color: azure;
+    align-content: center;
+    text-align: left;
+}
+.name{
+    background-color: brown;
+}
+.row{
+    background-color: brown;
+}
+.table{
+    padding-left: 500px;
+    padding-top: 100px;
+}
+.option{
+    background-color: beige;
+    padding-left: 56px;
+    margin-top: 34px;margin-left: 67px;
+}

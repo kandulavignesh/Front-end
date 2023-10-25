@@ -1,0 +1,30 @@
+.Calculator{
+    padding-left: 400px;
+    margin-top: 40px;
+    background-color: aliceblue;
+}
+.gap{
+    padding-left: 50px;padding-top: 10px;
+    margin-top: 15px;
+}
+.gap:hover{
+    background-color: antiquewhite;
+    color: 3px solid black;
+}
+.space{
+    padding-left: 110px;
+    padding-top: 20px;
+    text-align: end;
+    text-size-adjust: 40px;
+}
+h1{
+    color: black;
+    font-size: 38px;
+}
+.ga{
+    padding-left: 50px;
+    padding-top: 20px;  
+}
+.ga:hover{
+    background-color: brown;
+}
